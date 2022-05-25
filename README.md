@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+### I'm an enthusiast in low-level programming and large scale software systems 😊
 <!--
 **taknight-101/taknight-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
