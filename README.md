@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm an enthusiast in low-level programming, mixed development and large scale software systems 😊
+### I'm an enthusiast in low-level programming, mixed development, and large scale software systems 😊
 
 
 - 🌱 Currently learning kernel development and software architecture
