@@ -3,7 +3,7 @@
 ### I'm an enthusiast in low-level programming, mixed development and large scale software systems 😊
 
 
-- 🌱 I’m currently learning kernel development and software architecture
+- 🌱 Currently learning kernel development and software architecture
 
 <!--
 **taknight-101/taknight-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
