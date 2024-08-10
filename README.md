@@ -7,6 +7,8 @@ I'm a passionate and versatile software engineer with a strong foundation in low
 * Software Architecture: Experienced in designing and implementing scalable, maintainable, and efficient software solutions across diverse platforms.
 
 * DevOps Mindset: Committed to the principles of continuous integration and delivery, with a strong focus on automation to enhance developer productivity and streamline operations.
+  
+* Cybersecurity Enthusiast: Dedicated to secure coding practices, with a strong interest in identity and access management, as well as web and mobile application penetration testing.
 
 * Problem Solving: Avid problem solver with a keen eye for detail, dedicated to finding innovative solutions to complex challenges.
 
